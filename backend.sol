@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: UNLICENSED
 
 pragma solidity >=0.7.0 <0.9.0;
-import "C:/Users/navee/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol";
-import "C:/Users/navee/node_modules/@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol";
-import "C:/Users/navee/node_modules/@openzeppelin/contracts/utils/Strings.sol";
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+import "@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
 
 contract Real_Estate is ERC721Holder{
  
